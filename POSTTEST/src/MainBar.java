@@ -8,14 +8,9 @@ public class MainBar {
         bar.setHargaSatuan(500000);
         bar.tampilkanDetailBarang(); 
 
-
         bar.tambahStock(5);
         bar.kurangiStock(-100);
         bar.tampilkanDetailBarang();
-        
-        // bar.kurangiStock(3);
-
-
 
     }
     
